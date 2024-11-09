@@ -1,0 +1,18 @@
+{
+  "name": "master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "mdns": "^2.2.10",
+    "readline": "^1.2.1",
+    "sprintf": "^0.1.5",
+    "ws": "^0.8.0"
+  }
+}

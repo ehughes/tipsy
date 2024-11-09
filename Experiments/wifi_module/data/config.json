@@ -1,0 +1,6 @@
+{ 
+  "ssid": "wifiname",
+  "pass": "wifipass",
+  "baud": 9600,
+  "name": "test-node"
+}
